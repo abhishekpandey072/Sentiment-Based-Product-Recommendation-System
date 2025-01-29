@@ -16,7 +16,6 @@ The e-commerce business is quite popular today. Here, you do not need to take or
 
 ### Built with
 
-* Python 3.9.7
 * scikit-learn 1.6.1
 * xgboost 1.5.1
 * numpy 1.26.2

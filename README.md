@@ -19,7 +19,7 @@ The e-commerce business is quite popular today. Here, you do not need to take or
 * Python 3.9.7
 * scikit-learn 1.6.1
 * xgboost 1.5.1
-* numpy 1.26.0
+* numpy 1.26.2
 * nltk 3.6.7
 * pandas 2.2.3
 * Flask 3.1.0
